@@ -18,7 +18,8 @@ Analyze customer purchase behavior by day and hour.
 
 Provide intuitive visual storytelling through heat maps and trend charts.
 
-📊 KPI Requirements
+# 📊 KPI Requirements
+
 1️⃣ Total Sales Analysis
 
 Calculate total sales for each respective month
@@ -119,15 +120,16 @@ Power Query – Data transformation and cleaning
 Coffee-Shop-Sales-Analysis/
 │
 ├── Dashboard/
-│ └── Coffee_Shop_Sales_Analysis.pbix
+│   └── Coffee_Shop_Sales_Analysis.pbix
 │
 ├── Screenshots/
-│ └── dashboard_preview.png
+│   └── dashboard_preview.png
 │
 ├── Data/
-│ └── coffee_shop_sales.csv
+│   └── coffee_shop_sales.csv
 │
 └── README.md
+
 
 # 🚀 Key Insights Delivered
 
