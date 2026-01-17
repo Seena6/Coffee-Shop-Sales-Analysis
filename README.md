@@ -8,95 +8,92 @@ This project focuses on monthly performance analysis, hourly and daily sales pat
 
 # 🎯 Objectives
 
-Monitor overall business performance using key sales KPIs.
+• Monitor overall business performance using key sales KPIs.
 
-Compare month-on-month growth or decline.
+• Compare month-on-month growth or decline.
 
-Identify high-performing products, categories, and store locations.
+• Identify high-performing products, categories, and store locations.
 
-Analyze customer purchase behavior by day and hour.
+• Analyze customer purchase behavior by day and hour.
 
-Provide intuitive visual storytelling through heat maps and trend charts.
+• Provide intuitive visual storytelling through heat maps and trend charts.
 
 # 📊 KPI Requirements
 
-1️⃣ Total Sales Analysis
+## Total Sales Analysis
 
-Calculate total sales for each respective month
+• Calculate total sales for each respective month
 
-Determine month-on-month (MoM) increase or decrease in sales
+• Determine month-on-month (MoM) increase or decrease in sales
 
-Calculate the difference in sales between the selected month and the previous month
+• Calculate the difference in sales between the selected month and the previous month
 
-2️⃣ Total Orders Analysis
+## Total Orders Analysis
 
-Calculate the total number of orders for each respective month
+• Calculate the total number of orders for each respective month
 
-Determine MoM increase or decrease in total orders
+• Determine MoM increase or decrease in total orders
 
-Calculate the difference in order count between the selected month and the previous month
+• Calculate the difference in order count between the selected month and the previous month
 
-3️⃣ Total Quantity Sold Analysis
+## Total Quantity Sold Analysis
 
-Calculate the total quantity sold for each respective month
+• Calculate the total quantity sold for each respective month
 
-Determine MoM increase or decrease in quantity sold
+• Determine MoM increase or decrease in quantity sold
 
-Calculate the difference in quantity sold between the selected month and the previous month
+• Calculate the difference in quantity sold between the selected month and the previous month
 
 # 📈 Chart & Visualization Requirements
 
-## 1️⃣ Calendar Heat Map
+## Calendar Heat Map
 
-Dynamic calendar heat map that changes based on the selected month (via slicer)
+• Dynamic calendar heat map that changes based on the selected month (via slicer)
 
-Each day is color-coded by sales volume (darker shade = higher sales)
+• Each day is color-coded by sales volume (darker shade = higher sales)
 
-Tooltips show detailed metrics:
+• Tooltips show detailed metrics:
+  • Sales
+  • Orders
+  • Quantity Sold
 
-Sales
+## Sales Analysis: Weekdays vs Weekends
 
-Orders
+• Segment sales into weekdays and weekends
 
-Quantity Sold
+• Analyze performance variations between weekday and weekend sales
 
-## 2️⃣ Sales Analysis: Weekdays vs Weekends
+• Identify significant differences in customer buying behavior
 
-Segment sales into weekdays and weekends
+## Sales Analysis by Store Location
 
-Analyze performance variations between weekday and weekend sales
+• Visualize sales performance across multiple store locations
 
-Identify significant differences in customer buying behavior
+• Display MoM sales difference based on selected month
 
-# 3️⃣ Sales Analysis by Store Location
+• Highlight increase or decrease trends for each store
 
-Visualize sales performance across multiple store locations
+## Daily Sales Trend with Average Line
 
-Display MoM sales difference based on selected month
+• Bar chart showing daily sales for the selected month
 
-Highlight increase or decrease trends for each store
+• Include an average daily sales line
 
-# 4️⃣ Daily Sales Trend with Average Line
+• Highlight days above and below the average to identify exceptional performance
 
-Bar chart showing daily sales for the selected month
+## Sales Analysis by Product Category
 
-Include an average daily sales line
+• Analyze sales contribution by product category
 
-Highlight days above and below the average to identify exceptional performance
+• Identify categories that contribute most to total revenue
 
-# 5️⃣ Sales Analysis by Product Category
-
-Analyze sales contribution by product category
-
-Identify categories that contribute most to total revenue
-
-# 6️⃣ Top 10 Products by Sales
+## Top 10 Products by Sales
 
 • Display Top 10 products based on sales value
 
 • Enable quick identification of best-performing products
 
-# 7️⃣ Sales Analysis by Days and Hours
+## Sales Analysis by Days and Hours
 
 • Heat map showing sales distribution by day and hour
 
@@ -168,5 +165,10 @@ Monitor store-level performance and growth trends
 
 Make data-driven decisions using interactive visuals
 
-# Explore the Live Dashboard
+# Dashboard
+
+<img width="1217" height="736" alt="image" src="https://github.com/user-attachments/assets/da0df294-22bf-461b-85a7-67c538a59da2" />
+
+# Live Dashboard
+[Explore the live dashboard]()
 
