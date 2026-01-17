@@ -170,5 +170,5 @@ Make data-driven decisions using interactive visuals
 <img width="1217" height="736" alt="image" src="https://github.com/user-attachments/assets/da0df294-22bf-461b-85a7-67c538a59da2" />
 
 # Live Dashboard
-[Explore the live dashboard]()
+[Explore the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjQ3NTQ1M2EtOGM2MC00NjdmLWJmM2EtNzgyNTBkNWMxYTUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
