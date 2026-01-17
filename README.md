@@ -46,7 +46,7 @@ Calculate the difference in quantity sold between the selected month and the pre
 
 # 📈 Chart & Visualization Requirements
 
-# 1️⃣ Calendar Heat Map
+## 1️⃣ Calendar Heat Map
 
 Dynamic calendar heat map that changes based on the selected month (via slicer)
 
@@ -60,7 +60,7 @@ Orders
 
 Quantity Sold
 
-# 2️⃣ Sales Analysis: Weekdays vs Weekends
+## 2️⃣ Sales Analysis: Weekdays vs Weekends
 
 Segment sales into weekdays and weekends
 
@@ -117,6 +117,7 @@ Power Query – Data transformation and cleaning
 
 # 📂 Project Structure
 
+```text
 Coffee-Shop-Sales-Analysis/
 │
 ├── Dashboard/
@@ -129,6 +130,8 @@ Coffee-Shop-Sales-Analysis/
 │   └── coffee_shop_sales.csv
 │
 └── README.md
+```
+
 
 
 # 🚀 Key Insights Delivered
